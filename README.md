@@ -1,4 +1,4 @@
-# Criando uma api rest com Go
+# Criando uma api Rest com Go
 
 - [x] Criar uma pasta com o nome do projeto.
 - [x] Iniciar o projeto com go mod init "nome do seu projeto."
