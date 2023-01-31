@@ -13,7 +13,7 @@
 
 - [x] Instale o gorilla/mux para que seja possivel manipular e pegar os valores das rotas. go get -u github.com/gorilla/mux
 - [x] Docker instalado no Windows com sucesso.
-- [x] Realizando a coneção da api com banco de dados via Docker.
+- [x] Realizando a conexão da api com banco de dados via Docker.
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/82729145/215833525-4a3f2f2e-4bbf-41ed-b4fc-ed5d5abebc99.png" width="600px" height="300px" />
