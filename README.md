@@ -11,3 +11,8 @@
 - [x] Crie um arquivo dentro da pasta models com o nome personalidades.go.
 - [x] Crie um json simples com os seguintes dados Nome e História.
 - [ ]
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/82729145/215833525-4a3f2f2e-4bbf-41ed-b4fc-ed5d5abebc99.png" width="600px" height="300px" />
+
+</div>
