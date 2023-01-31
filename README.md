@@ -10,4 +10,4 @@
 
 - [x] Crie um arquivo dentro da pasta models com o nome personalidades.go.
 - [x] Crie um json simples com os seguintes dados Nome e História.
-- [ ]
+- [x] Instale o gorilla/mux para que seja possivel manipular e pegar os valores das rotas. go get -u github.com/gorilla/mux
